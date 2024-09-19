@@ -81,11 +81,11 @@ Experienced Data Scientist with a strong background in statistical analysis, mac
 
 ### Data Visualization: 
 
-- Matplotlib, Seaborn, Tableau, Power BI
+- ggplot2, Plotly, ObservablePlot, D3
 
 ### Tools & Technologies: 
 
-- Hadoop, Spark, AWS, Docker
+- Kubernetes, RedHat OpenShift, Software Containerization, Helm, Google Cloud Platform, AWS
 
 ### Soft Skills: 
 
@@ -94,6 +94,46 @@ Experienced Data Scientist with a strong background in statistical analysis, mac
 ---
 
 ## Projects / Studies
+
+### Home Weather Station
+**Personal** | 2023
+
+Some Stuff
+
+### Organizational Budget Formulation Tool
+**SETAF-AF** | 2023
+
+Some Stuff
+
+### Program Planning and Progress Assessment Methodology and Process
+**SETAF-AF** | 2021 - 2024
+
+Some Stuff
+
+### Social Network Visualization Tool
+**USSOCOM** | 2021
+
+Some Stuff
+
+### Report Summary and Content Analysis
+**USSOCOM** | 2020
+
+Some Stuff
+
+### Command Surgeon Research Query and Summary Tool
+**USSOCOM** | 2020
+
+Some Stuff
+
+### Funding Prioritization Tool
+**USSOCOM** | 2020
+
+Some stuff
+
+### Data Analytics Environment Program Manager
+**USSOCOM** | 2019 - 2021
+
+Some stuff
 
 ### U.S. Special Operations Command (USSOCOM) Operational Assessments
 **USSOCOM** | 2018  
