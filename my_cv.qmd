@@ -23,26 +23,71 @@ Email: neilkester@yahoo.com | LinkedIn: linkedin.com/in/nkester
 
 ## Professional Summary
 
+What drives me professionally? I strive to bring clarity to problems and provide actionable approaches to help our leaders make informed decisions based on analysis. Through my career I've accomplished this through foundational concepts like root cause analysis, problem definition and decomposition, and data visualization. At times, I've augmented these concepts with the complex methods of data science and artificial intelligence, when they are appropriate and warranted. 
+
 Experienced Data Scientist with a strong background in statistical analysis, machine learning, and data visualization. Proven ability to translate complex data into actionable insights.
 
 ---
 
 ## Work Experience
 
-### Senior Data Scientist
-**Tech Solutions Inc.** | City, Country | January 2020 - Present
+### Department Director - Assessments Director (Operations Research / Systems Analyst)
+**U.S. Army: Southern European Task Force - Africa (SETAF-AF)** | Vicenza, VI, Italy | July 2022 - Present
 
-- Led a team of data scientists in developing predictive models to improve customer retention by 20%.
-- Implemented machine learning algorithms to analyze large datasets, resulting in a 15% increase in operational efficiency.
-- Collaborated with cross-functional teams to identify business opportunities and provide data-driven solutions.
+- Lead and supervised a six person team of civilian and military Operations Researchers and Program Analysts.
 
-### Data Scientist
-**Data Insights LLC** | City, Country | June 2016 - December 2019
+### Senior Data Scientist / Senior Software Project Manager (Operations Research / Systems Analyst)
+**U.S. Special Operations Command: Command Data Office (CDO)** | Tampa, FL, USA | August 2019 - June 2022
 
-- Developed and deployed recommendation systems that increased product sales by 25%.
-- Conducted A/B testing and analyzed results to optimize marketing strategies.
-- Created interactive dashboards and reports using Tableau and Power BI to visualize key performance indicators.
+- Lead highly technical teams of software developers, data scientists, and data architects using Agile Project Management techniques to deliver capabilities to customers across the organization's world wide foot print.  
+- Employ data science, data analytics, and operations research techniques to identify, ingest, transform, model, visualize, and communicate responses to complicated and nuanced questions.  
+- Lead teams to discover and implement technical capabilities empowering users across a geographically diverse organization to employ data science and data analytics to inform senior leader decisions. 
+- Serve as a knowledge broker to communicate requirements for data science work loads for others in the command.
 
+### Resource Analyst & Data Scientist (Operations Research / Systems Analyst)
+**U.S. Army: Center for Army Analysis (CAA)** | Alexandria, VA, USA | July 2016 - April 2019
+
+- Supported senior leaders of a 1,000,000 + employee organization, lead and participated in studies related to the employment of materiel and personnel resources within the context of external geo-polical environments and national defense.  
+- Communicate the planning, progress, and results of said studies to C Suite executives to inform future funding, resourcing, and employment decisions. 
+
+### Materials and Product Effectiveness Analyst (Weapons Systems Analyst - Operations Research / Systems Analyst)
+**U.S. Army: U.S. Army Materiel Systems Analysis Activity (AMSAA)** | Aberdeen, MD, USA | August 2014 - July 2016
+
+- Analyzed single soldier or weapon system performance in the context of its intended employment situations to inform decisions on the system's acquisition and use.  
+- Performed basic research level analysis to determine the qualities and capabilities systems must posses to achieve intended results.
+
+### Construction Project Manager
+**U.S. Army: U.S. Army Corps of Engineers (USACE)** | Seattle, WA, USA | October 2012 - June 2014
+
+- Identified, coordinated, and integrated customer requirements into a comprehensive management plan, coordinated with stakeholders.  
+- Controlled and managed the budget and schedule of a $91 million dollar construction project while on the project site.
+
+### Department Director (Combat Engineer Company Commander)
+**U.S. Army: C Company, 40th Engineer Battalion, 170th Infantry Brigade Combat Team** | Baumholder, Germany and Afghanistan | April 2011 - October 2012
+
+- Managed the life, well-being, and operational employment of 120 individuals organized into four teams while operating in hostile environments across approximately 3600 square km of area.  
+- Managed the maintenance, accountability, operational readiness, and employment of 41 heavy duty vehicles and associated operational equipment valued in excess of $31 million.
+
+### Department Deputy Director of Operations (Combat Engineer Battalion Assistance Operations Officer)
+**U.S. Army: 40th Engineer Battalion, 170th Infantry Brigade Combat Team** | Baumholder, Germany | October 2010 - April 2011
+
+- Future operations planning for a 600 person department that required coordinating with other deputy directors and their subordinates across the department's staff.  
+- Coordinating that resources were available when and where they were needed to support the department's operations.
+
+### Department Deputy Director of Protection (Combined Arms Battalion Engineer)
+**U.S. Army: 2-12 Cavalry, 1st Cavalry Division** | Killeen, TX, USA and Iraq | April 2008 - April 2009
+
+- Plan and implement protection measures during hazardous conditions for a 500 person department.  
+- Advise the Department Director and Department Deputy Director of Operations on the employment of protective personnel and resources.  
+- Conduct data collection and analysis on the impact of the operational environment on the Department's Operations. Communicate these findings to the Department Director and Deputy Director of Operations.
+
+### Department Deputy Director (Combat Engineer Company Executive Officer)
+**U.S. Army: 2-12 Cavalry, 1st Cavalry Division** | Killeen, TX, USA | February 2007 - March 2008
+
+- Second in charge of a 80 person department, organized into three teams.
+- Implemented and cared for the training, welfare, discipline, and professional development of employees in the division.
+- The Department's Maintenance and Logistics Manager, responsible for providing logistics to support the department's operations. This included supporting more than 29 heavy duty vehicles and associated operational equipment valued in excess of $20 million.  
+- Served as the subject matter expert on employing the division's specific operational capabilities to upper management.
 ---
 
 ## Education
