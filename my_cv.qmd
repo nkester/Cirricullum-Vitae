@@ -1,0 +1,281 @@
+---
+title: "Operations Researcher / Data Scientist Curricullum Vitae"
+author: "Neil Kester, PMP, DASSM"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    css: styles.css
+  pdf:
+    css: styles.css
+---
+
+# Neil Kester, PMP, DASSM
+
+**Operations Research / Systems Analyst**
+
+Gazzo, Padua Italy
+
+Email: neilkester@yahoo.com | [LinkedIn](https://linkedin.com/in/neilkester) | CV: [PDF](https://www.about.nkester.com/uploads/cv/my_cv.pdf) or [Website](https://www.about.nkester.com/uploads/cv/my_cv.html) | [Resume](https://www.about.nkester.com/uploads/resume.pdf)
+
+---
+
+## Professional Summary
+
+### My Professional "Why":
+I strive to bring clarity to problems and provide actionable approaches to help our leaders make informed decisions based on analysis.  
+
+  * **The context:** Our national security, local government, and business leaders face increasingly complex and complicated problems. Unclear or complex solutions compound these problems. I strive to help leaders make sense of this environment to better themselves, their constituents (and customers), and our society.
+
+### My Professional "How":
+
+Through self work and leading cross functional teams, I apply the following methods and techniques:  
+
+  * Remain ruthlessly focused on providing value to the customer or decision maker. Novel solutions only matter if they are usefull and valuable to the user.  
+  * Ask pointed questions to help myself, my team, and the decision maker develop and understand the problem.  
+  * Apply Disciplined Agile practices to guide the problem solving process and deliver value.  
+  * Acknowledge the things we don’t or can not know, and account for them in our analysis.  
+  * Simplicity and explainability always trump complex and convoluted.  
+  * Apply Operations Research and Systems Analysis techiques that span the spectrum from Operational Assessments, Systems Engineering, Economics, and Data Science.
+
+I excel at achieving desired effects with minimal guidance and oversight in environments that demand self-motivated leadership.
+
+---
+
+## Work Experience 
+Job Titles: Civilian Equivalent (U.S. Army Title)
+
+### Department Director - Analytics and Assessments Director (Operations Research / Systems Analyst)
+**U.S. Army: Southern European Task Force - Africa (SETAF-AF)** | Vicenza, VI, Italy | July 2022 - Present
+
+- Lead and supervised a six person team of civilian and military Operations Researchers and Program Analysts.
+- Lead and oversee the Operations Analysis Program for an organization of more than 800 personnel. Analyses are focused across the spectrum of business function to field operations and the employment of resources to internal business operations and functions, to the evaluation, prioritization, and forecasting of future resource requirements to support the organizations future goals. 
+- Lead and oversee the organization's business facilities program which ensured locations from which the organization operates are properly resourced, supported, and built to support the business' requirements.
+
+### Senior Data Scientist / Senior Software Project Manager (Operations Research / Systems Analyst)
+**U.S. Special Operations Command: Command Data Office (CDO)** | Tampa, FL, USA | August 2019 - June 2022
+
+- Lead highly technical teams of software developers, data scientists, and data architects using Agile Project Management techniques to deliver capabilities to customers across the organization's world wide foot print.  
+- Employ data science, data analytics, and operations research techniques to identify, ingest, transform, model, visualize, and communicate responses to complicated and nuanced questions.  
+- Lead teams to discover and implement technical capabilities empowering users across a geographically diverse organization to employ data science and data analytics to inform senior leader decisions. 
+- Serve as a knowledge broker to communicate requirements for data science work loads for others in the command.
+
+### Resource Analyst & Data Scientist (Operations Research / Systems Analyst)
+**U.S. Army: Center for Army Analysis (CAA)** | Alexandria, VA, USA | July 2016 - April 2019
+
+- Supported senior leaders of a 1,000,000 + employee organization, lead and participated in studies related to the employment of materiel and personnel resources within the context of external geo-polical environments and national defense.  
+- Communicate the planning, progress, and results of said studies to C Suite executives to inform future funding, resourcing, and employment decisions. 
+
+### Materials and Product Effectiveness Analyst (Weapons Systems Analyst - Operations Research / Systems Analyst)
+**U.S. Army: U.S. Army Materiel Systems Analysis Activity (AMSAA)** | Aberdeen, MD, USA | August 2014 - July 2016
+
+- Analyzed single soldier or weapon system performance in the context of its intended employment situations to inform decisions on the system's acquisition and use.  
+- Performed basic research level analysis to determine the qualities and capabilities systems must posses to achieve intended results.
+
+### Construction Project Manager
+**U.S. Army: U.S. Army Corps of Engineers (USACE)** | Seattle, WA, USA | October 2012 - June 2014
+
+- Identified, coordinated, and integrated customer requirements into a comprehensive management plan, coordinated with stakeholders.  
+- Controlled and managed the budget and schedule of a $91 million dollar construction project while on the project site.
+
+### Department Director (Combat Engineer Company Commander)
+**U.S. Army: C Company, 40th Engineer Battalion, 170th Infantry Brigade Combat Team** | Baumholder, Germany and Afghanistan | April 2011 - October 2012
+
+- Managed the life, well-being, and operational employment of 120 individuals organized into four teams while operating in hostile environments across approximately 3600 square km of area.  
+- Managed the maintenance, accountability, operational readiness, and employment of 41 heavy duty vehicles and associated operational equipment valued in excess of $31 million.
+
+### Department Deputy Director of Operations (Combat Engineer Battalion Assistance Operations Officer)
+**U.S. Army: 40th Engineer Battalion, 170th Infantry Brigade Combat Team** | Baumholder, Germany | October 2010 - April 2011
+
+- Future operations planning for a 600 person department that required coordinating with other deputy directors and their subordinates across the department's staff.  
+- Coordinating that resources were available when and where they were needed to support the department's operations.
+
+### Department Deputy Director of Protection (Combined Arms Battalion Engineer)
+**U.S. Army: 2-12 Cavalry, 1st Cavalry Division** | Killeen, TX, USA and Iraq | April 2008 - April 2009
+
+- Plan and implement protection measures during hazardous conditions for a 500 person department.  
+- Advise the Department Director and Department Deputy Director of Operations on the employment of protective personnel and resources.  
+- Conduct data collection and analysis on the impact of the operational environment on the Department's Operations. Communicate these findings to the Department Director and Deputy Director of Operations.
+
+### Department Deputy Director (Combat Engineer Company Executive Officer)
+**U.S. Army: 2-12 Cavalry, 1st Cavalry Division** | Killeen, TX, USA | February 2007 - March 2008
+
+- Second in charge of a 80 person department, organized into three teams.
+- Implemented and cared for the training, welfare, discipline, and professional development of employees in the division.
+- The Department's Maintenance and Logistics Manager, responsible for providing logistics to support the department's operations. This included supporting more than 29 heavy duty vehicles and associated operational equipment valued in excess of $20 million.  
+- Served as the subject matter expert on employing the division's specific operational capabilities to upper management.
+---
+
+## Education
+
+### Master of Science in Engineering (MSE) in Systems Engineering, MSE
+**Johns Hopkins University Whiting School of Engineering** | Baltimore, MD USA | 2017 - 2021
+
+- Coursework: System Conceptual Design, System Design and Integration, System Test and Evaluation, Software Systems Engineering, Human Systems Engineering, System of Systems Engineering, Management of Systems Projects.
+- Thesis: "Applying Trade-Space Analysis to Modeling and Simulations as a Service (MSaaS): A Study in Applying Established Systems Engineering Methodologies in a Novel Setting"
+
+### Master of Science in Engineering Management, MS
+**Missouri University of Science & Technology (MS&T)** | Rolla, MO USA | 2010
+
+- Coursework: Decision Analysis, Total Quality Management, Management Science, Design for Six Sigma, Lean Manufacturing
+
+### Bachelor of Science in Civil Engineering, BS
+**United States Military Academy** | West Point, NY USA | 2002 - 2006
+
+- Coursework: Calculus I & II, Engineering Math, Concrete Design, Steel Design, Thermodynamics, Hydrology, Wood Design, Soils, Descrete Dynamic Systems, Physics (Calculus based), Chemistry.
+
+
+---
+
+## Skills
+
+### Programming Languages:  
+
+- **R**: Expert
+- **SQL**: Intermediate
+- **Python**: Intermediate  
+
+### Data Analysis:  
+
+- **R**: Tidyverse, ggplot2, DT, iGraph, tm 
+- **Python**: Pandas, NumPy, Scikit-learn, TensorFlow
+
+### Data Visualization: 
+
+- **R**: ggplot2, D3, iGraph
+- **Python**: Plotly
+- **Observable JavaScript**: ObservablePlot, D3
+
+### Tools & Technologies: 
+
+- Kubernetes, RedHat OpenShift, Software Containerization, Helm, Google Cloud Platform, AWS, [PMI Disciplined Agile Toolkit](https://dabrowser.pmi.org/)
+
+### Soft Skills: 
+
+- Analytic Thinking, Problem Solving, Communication, Team Leadership, [PMI Disciplined Agile Mindset](https://www.pmi.org/disciplined-agile/mindset/)
+
+---
+
+## Projects / Studies
+
+### Home Weather Station
+**Personal** | 2023
+
+Through this project the kids can learn basics of sensors in the real world, wireless networks, databases, and the power of cloud technologies. At the end, they will be able to point their friends and family from around the world to a website to see how hot it is, how much rain we’ve gotten, the air quality, etc. near their home.  
+
+See more about the project here: [Kester Home Weather Station](https://www.about.nkester.com/project/weatherstation/)
+
+### Organizational Budget Formulation Tool
+**SETAF-AF** | 2023
+
+Formulating government budgets require organizations to describe all the requirements they have and which congressional appropriation they apply to. Some requirements have components that span multiple appropriations so there are dependencies among them. Likewise, some requirements are more important to fund than others which we may assume risk on (partially fund) or simply go without having them. Clearly, we are often not provided enough resources in each appropriation to fund all the things we want or need to do so these appropriations constrain this problem. The size and complexity of this problem is challenging to solve by hand and when it is, the solution is often sub-optimal and includes errors or oversights.  
+
+To address this, we developed a value function that attributed value to each budget item based on a number of factors and then built a linear programming model that attempted to maximize the value while constrained by the size of each appropriation previously mentioned. This resulted in a transparent, repeatable, and rapid process to formulate an initial budget that the organization's finance department could then fine tune and publish. 
+
+### Program Planning and Operations Assessment Methodology and Process
+**SETAF-AF** | 2021 - 2024
+
+Every organization has some goal or objective it is tries to meet. The next logical questions are: "Are we getting there?" and "How do we make our operations more effective at reaching our desired outcomes?" These questions are hard to ask and require organizations to have a learning mindset and be willing to acknowledge what and how operations are conducted could be improved. I led a team that developed an Operations Assessment Methodology and implementation process that provided analytic rigor and structure to the process of asking the right questions of our operations and the changes in the environment we want to see to identify tangible actions our staff and leaders could take to make operations more effective.  
+
+### Social Network Visualization Tool
+**USSOCOM** | 2021
+
+Using a simple Shiny reactive web framework tool built in the R programming language, my team and I tool that allowed users to visualize a social network graph and interact with the nodes. While simple, this tool allowed users to visualize a social network from a large cloud deployed database, select nodes of interest, and then ask additional interesting questions of those nodes to further their analysis. 
+
+### Report Summary and Content Analysis
+**USSOCOM** | 2020
+
+Large organizations produce too many reports for everyone to read, absorb, and understand. Likewise, these reports are often distributed in hard copy or picture form (scanned images). This project aimed to extract meaning from these flat document images and present users with high level themes and messages contained in the document so they could decide what and how much to read. I used optical character recognition (OCR) to convert the images back into text, performed some text cleaning to eliminate as much noise introduced by OCR as possible, store the information in a database, and then perform basic text analytics to present users with those themes and messages.
+
+### Command Surgeon Research Query and Summary Tool
+**USSOCOM** | 2020
+
+The organization gets requests for information on a myriad of topics and concerns that we must research and provide responses for. When those questions deal with medical issues, the Command's Surgeon team often reference the National Institutes of Health (NHI)'s National Library of Medicine web platform called [PubMed](https://pubmed.ncbi.nlm.nih.gov/). Using this tool, they can search for published research regarding their question. The problem, however, is that this process is long, cumbersome, and requires the team to read through many publications to find relevant work.  
+
+My team and I developed a tool that addressed this problem in several ways. First, it employed a simple machine learning algorithm to summarize all paper abstracts returned by PubMed search request into two sentences, allowing the Command Surgeon's team to rapidly find papers of interest. Second, it allowed the user to export reports based on the search term and its results, with those summarized abstracts for reference after the fact.
+
+As the Agile Project Manager, I led the team to develop this tool using a Micro-Services Architecture (MSA) that we deployed in a managed kubernetes environment on a cloud service provider. We used Helm to manage and automate the deployment into kubernetes and the configuration of the MSA.
+
+### Funding Prioritization Tool
+**USSOCOM** | 2020
+
+Requesting funding for large scale construction projects within the U.S. Government requires significant planning, prioritization, and trades between competing requirements. This project aimed to make that process more transparent, easier to iterate, and to find efficiency. The development team built and deployed this as a web accessible tool to support staff conferences in which users input their requirements, the relative value of each project, and several other requirement categories to determine which and in what way each project should be funded.  
+
+Aside from the actual prioritization, a major result from this project was simply describing and documenting the process, what considerations mattered in how the decisions were made, and who provided those inputs.  
+
+### Data Analytics Environment Program Manager
+**USSOCOM** | 2019 - 2021
+
+In order to scale the use of data and analytics in any organization, practitioners require access to tools and systems that support their work and help them demonstrate value to their leaders.  
+
+As the program manager for the Data Analytics Environment, I led a team of three highly skilled and technical developers that built and managed a suite of tools and capabilities available to a globally distributed team of data analysts and data scientists. These tools supported their work and furthered the command's data literacy and adoption of analytics through rapid, free, and flexible access to tools and capabilities. 
+
+### U.S. Special Operations Command (USSOCOM) Operational Assessments
+**USSOCOM** | 2018  
+
+I led a team to conduct operational design and an operational assessment of a complex Combined, Joint, Interagency Operation. The focus of this effort was to develop the framework and collect the information required to better define and structure future operations.
+
+### Trans-Regional Analysis Validation ENvironment (TRAVEN)  
+**USSOCOM** | 2018  
+
+The TRAVEN is a methodology and tool developed to replicate and automate the workflow required to transform large sets of semi-structured captured enemy material into cleaned, structured, and related data. The output of this tool transformed what had taken analysts days to accomplish into seconds, giving them time to develop more complete understanding.  
+
+### Communications InteRoperability appraIsal Table (CIRCuIT)
+**Center for Army Analysis (CAA)** | 2017  
+
+This study developed a novel approach to collecting, storing, and communicating the U.S. Army’s ability to communicate with its Combined, Joint, and Interagency Mission Partners. Structured around the Warfighting Functions and U.S. Army echelons, it connects observations from units operating with mission partners to a structured and searchable database. This allows other operators to learn from those observations and provides a holistic view to senior leaders on what level of interoperability can be expected between two organizations.  
+
+### Fuel Resupply to Eastern Europe Distribution Overland Model (FREEDOM)  
+**CAA** | 2016 - 2017  
+
+This study focused on developing a discrete event simulation model that approximated the processes and limitations required to transfer fuel overland to support operations across Europe. The desired output was to understand what level of transportation resources, environmental conditions, and/or physical infrastructure was required to meet the anticipated demand at the correct time and location.  
+
+### Small Arms Ammunition Configuration Study (SAAC)  
+**Army Materiel Systems Analysis Activity (AMSAA)** | 2014 - 2016  
+
+This critical study, led by the Maneuver Center of Excellence (MCoE), aimed to evaluate the required performance and technical feasibility of the next generation of the Soldier Rifle. This highly collaborative study included engagement from MCoE, AMSAA, TRAC, ARL, ARCIC, ARDEC, NATICK, USMA, and others. To support this, I developed the combat modeling scenarios used to evaluate the system designs and developed data analysis tools to access, analyze, and visualize the modeling output results.  
+
+### Discrete Event System Specification Distributed Modeling Framework (DEVS-DMF)  
+**AMSAA** | 2015 - 2016  
+
+This study, in collaboration with the United States Military Academy’s Systems Engineering Department, explored the possibility of deploying models representing individual aspects of a combat simulation model (the act of acquiring a target, the delivery accuracy of a small arms weapon, the effects of that projectile on a target, etc.) remotely in a cloud environment. Executing this in a DEVS environment allows the models to run independently of each other and leverage significantly more computing power than is resident on a local machine. Leveraging frameworks such as these, paired with advanced Design of Experiment techniques, allow analysts to explore the most important regions of the design space.  
+
+### Collateral Damage Estimation (CDE) Program
+**AMSAA** | 2015 - 2016  
+
+Under the Joint Technical Coordinating Group for Munitions Effectiveness (JTCG/ME) Program Office, I ran the models and analysis to update CDE tables for new or updated ground to ground munitions. I also participated in the CDE Working Groups to develop modeling improvements that strove to balance the flexibility desired by operators with the risk mitigation measures provided by the CDE methodology.
+
+### Echelons Above Brigade (EAB) M113 Replacement Analysis of Alternatives  
+**AMSAA** | 2015 - 2016  
+
+This study, led by the TRADOC Analysis Center (TRAC), evaluated viable alternatives to the M113 to support Field Artillery and Engineer units at Echelons Above Brigade (EAB). The AMSAA Mobility and Survivability teams evaluated each candidate’s performance and provided that feedback to TRAC to combine with their results of combat modeling performance. I provided experiential knowledge on the platforms and requirements specific to the U.S. Army Combat Engineer Military Occupational Specialty (MOS)
+
+---
+
+## Certifications
+
+- **Project Management Professional (PMP)** - Project Management Institute, MAR 2014 - MAR 2026
+- **Disciplined Agile Senior Scrum Master (DASSM)** - Project Management Institute, JUL 2024 - JUL 2025
+
+---
+
+## Conference Presentations  
+
+- **"Overland Fuel Distribution Model"**, Military Operations Research Symposium (MORS), JUN 2017  
+  - A talk to describe and demonstrate our approach to the FREEDOM model.
+- **"Cloud Based Distributed Modeling Framework"**, Army Operations Research Symposium (AORS), OCT 2015  
+  - Presented the approach and value of Distributed Modeling in the context of weapons performance modeling.
+  
+---
+
+## Published Articles  
+
+- R. Kewley, N. Kester and J. McDonnell, "DEVS Distributed Modeling Framework - A parallel DEVS implementation via microservices," 2016 Symposium on Theory of Modeling and Simulation (TMS-DEVS), Pasadena, CA, 2016, pp. 1-8.  
+  - This article introduces the Discrete Event System Specification Distributed Modeling Framework (DEVS-DMF) for integrating simulation modes as parallel and distributed microservices. Two simulation implementations of DEVS-DMF discussed in this article include a parallel simulation test case and a combat weapons simulator that assesses the performance of alternative small arms weapons designs.
+
+---
+
+## References
+
+Available upon request.
