@@ -30,14 +30,14 @@ I strive to bring clarity to problems and provide actionable approaches to help 
 
 ### My Professional "How":
 
-Through self work and leading cross functional teams, I apply the following methods and techniques:  
+Through self-work and leading cross functional teams, I apply the following methods and techniques:  
 
-  * Remain ruthlessly focused on providing value to the customer or decision maker. Novel solutions only matter if they are usefull and valuable to the user.  
+  * Remain ruthlessly focused on providing value to the customer or decision maker. Novel solutions only matter if they are useful and valuable to the user.  
   * Ask pointed questions to help myself, my team, and the decision maker develop and understand the problem.  
-  * Apply Disciplined Agile practices to guide the problem solving process and deliver value.  
-  * Acknowledge the things we don’t or can not know, and account for them in our analysis.  
+  * Apply Disciplined Agile practices to guide the problem-solving process and deliver value.  
+  * Acknowledge the things we don’t or cannot know, and account for them in our analysis.  
   * Simplicity and explainability always trump complex and convoluted.  
-  * Apply Operations Research and Systems Analysis techiques that span the spectrum from Operational Assessments, Systems Engineering, Economics, and Data Science.
+  * Apply Operations Research and Systems Analysis techniques that span the spectrum from Operational Assessments, Systems Engineering, Economics, and Data Science.
 
 I excel at achieving desired effects with minimal guidance and oversight in environments that demand self-motivated leadership.
 
@@ -49,7 +49,7 @@ Job Titles: Civilian Equivalent (U.S. Army Title)
 ### Department Director - Analytics and Assessments Director (Operations Research / Systems Analyst)
 **U.S. Army: Southern European Task Force - Africa (SETAF-AF)** | Vicenza, VI, Italy | July 2022 - Present
 
-- Lead and supervised a six person team of civilian and military Operations Researchers and Program Analysts.
+- Lead and supervised a six-person team of civilian and military Operations Researchers and Program Analysts.
 - Lead and oversee the Operations Analysis Program for an organization of more than 800 personnel. Analyses are focused across the spectrum of business function to field operations and the employment of resources to internal business operations and functions, to the evaluation, prioritization, and forecasting of future resource requirements to support the organizations future goals. 
 - Lead and oversee the organization's business facilities program which ensured locations from which the organization operates are properly resourced, supported, and built to support the business' requirements.
 
@@ -64,7 +64,7 @@ Job Titles: Civilian Equivalent (U.S. Army Title)
 ### Resource Analyst & Data Scientist (Operations Research / Systems Analyst)
 **U.S. Army: Center for Army Analysis (CAA)** | Alexandria, VA, USA | July 2016 - April 2019
 
-- Supported senior leaders of a 1,000,000 + employee organization, lead and participated in studies related to the employment of materiel and personnel resources within the context of external geo-polical environments and national defense.  
+- Supported senior leaders of a 1,000,000 + employee organization, lead and participated in studies related to the employment of materiel and personnel resources within the context of external geo-political environments and national defense.  
 - Communicate the planning, progress, and results of said studies to C Suite executives to inform future funding, resourcing, and employment decisions. 
 
 ### Materials and Product Effectiveness Analyst (Weapons Systems Analyst - Operations Research / Systems Analyst)
@@ -123,7 +123,7 @@ Job Titles: Civilian Equivalent (U.S. Army Title)
 ### Bachelor of Science in Civil Engineering, BS
 **United States Military Academy** | West Point, NY USA | 2002 - 2006
 
-- Coursework: Calculus I & II, Engineering Math, Concrete Design, Steel Design, Thermodynamics, Hydrology, Wood Design, Soils, Descrete Dynamic Systems, Physics (Calculus based), Chemistry.
+- Coursework: Calculus I & II, Engineering Math, Concrete Design, Steel Design, Thermodynamics, Hydrology, Wood Design, Soils, Discrete Dynamic Systems, Physics (Calculus based), Chemistry.
 
 
 ---
