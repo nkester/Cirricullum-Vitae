@@ -1,0 +1,47 @@
+---
+title: "Data Scientist / Senior Operations Researcher Resume for USAREUR-AF"
+author: "Neil Kester, PMP, DASSM"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    css: styles.css
+  pdf:
+    css: styles.css
+---
+Email: neilkester@yahoo.com | [LinkedIn](https://linkedin.com/in/neilkester) | CV: [PDF](https://www.about.nkester.com/uploads/cv/my_cv.pdf) or [Website](https://www.about.nkester.com/uploads/cv/my_cv.html) | [Resume](https://www.about.nkester.com/uploads/resume.pdf)
+---
+
+## Professional Summary
+
+I am a post KNB (Key Nominative Billet), Senior Analyst with more than a decade's worth of continuous job experience as a Military ORSA. I have dedicated much of my professional time to the application of analytics and data science to operationally relevant problems of high importance to our senior leaders at the tactical (a USSOCOM CJIATF), operational (SETAF-AF), strategic level (USSOCOM HQ), and institutional level (Center for Army Analysis - FOA of HQDA). My performance has been recognized by the Military Operations Research Society (MORS) and the Army Operations Research Society (AORS) with their individual Junior Analyst of the Year awards and as a member of a team with USSOCOM's Christian Lambertsen Award for Operational Innovation. Additionally, I was fortunate enough to earn a Merit Based promotion to Lieutenant Colonel.  
+
+The following experiences are applicable to this position at USAREUR-AF:  
+
+  1) At USSOCOM HQ, I led a team of contractors who built, deployed, and managed a data analytics environment employed by elements of the USSOCOM enterprise world wide across two networks. This environment operated both on traditional ("on premises") resources as well as cloud deployed resources leveraging kubernetes orchestration and software constainer technologies.  
+  2) I have developed optimization algorithms (linear and non-linear programs) and deployed them to users with a web based user interface to answer complex questions like: how do we get the most value for our limited budget.  
+  3) I developed a discrete event simulation model to support a USAREUR-AF materiel distribution problem.  
+  4) I have developed, implemented, and managed a Campaign Assessment process focused on developing actionable insights our commanders and leaders can use to make operations more effective.
+
+### My Professional "Why":
+I strive to bring clarity to problems and provide actionable approaches to help our leaders make informed decisions based on analysis.  
+
+  * **The context:** Our national security, local government, and business leaders face increasingly complex and complicated problems. Unclear or complex solutions compound these problems. I strive to help leaders make sense of this environment to better themselves, their constituents (and customers), and our society.
+
+### My Professional "How":
+
+Through self-work and leading cross functional teams, I apply the following methods and techniques:  
+
+  * Remain ruthlessly focused on providing value to the customer or decision maker. Novel solutions only matter if they are useful and valuable to the user.  
+  * Ask pointed questions to help myself, my team, and the decision maker develop and understand the problem.  
+  * Apply Disciplined Agile practices to guide the problem-solving process and deliver value.  
+  * Acknowledge the things we don’t or cannot know, and account for them in our analysis.  
+  * Simplicity and explainability always trump complex and convoluted.  
+  * Apply Operations Research and Systems Analysis techniques that span the spectrum from Operational Assessments, Systems Engineering, Economics, and Data Science.
+
+I excel at achieving desired effects with minimal guidance and oversight in environments that demand self-motivated leadership.  
+
+
+**You can find my full resume and curriculum vitae at the links above.**
+
